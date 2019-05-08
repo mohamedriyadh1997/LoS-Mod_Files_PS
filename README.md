@@ -12,7 +12,7 @@ This repository holds the PlayStation 3 version of Legacy of Solaris. For more r
 - [Miscellaneous](https://github.com/LostLegacyTeam/LoS-Miscellaneous)
 
 # Usage
-To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you must dump your copy of the game to your PlayStation's hard drive, then via FTP or any other storage media; simply just replace the files in the dumped copy with the ones you downloaded from here. However, for ``object.arc``, you will need to use [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit)'s ARC Studio. This is a temporary solution until we have a tool to automate this process.
+To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you must dump your copy of the game to your PlayStation's hard drive using multiMAN, then via FTP or any other storage media; simply just replace the files in the dumped copy with the ones you downloaded from here. However, for ``object.arc``, you will need to use [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit)'s ARC Studio. This is a temporary solution until we have a tool to automate this process.
 
 In ARC Studio, set the Source archive to the retail (unmodified) `object.arc` and the Merge archive to the modified `object.arc` you downloaded from here. Then set the Output to a memorable location and click Merge.
 
