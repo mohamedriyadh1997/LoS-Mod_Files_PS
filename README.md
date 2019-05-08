@@ -1,4 +1,11 @@
-# Legacy of Solaris (PlayStation 3)
+<p align="center">
+    <a href="https://github.com/LostLegacyTeam/LoS-Mod_Files_PS/blob/master/">
+        <img height="180px" src="https://github.com/LostLegacyTeam/LoS-Mod_Files_PS/blob/master/logo.png" />
+    </a>
+</p>
+
+<h1 align="center">Legacy of Solaris (PlayStation 3)</h1>
+
 This repository holds the PlayStation 3 version of Legacy of Solaris. For more repositories, visit the ones listed below:
 - [Xbox 360 Version](https://github.com/LostLegacyTeam/LoS-Mod_Files_X)
 - [Additional Content](https://github.com/LostLegacyTeam/LoS-Additional_Content)
