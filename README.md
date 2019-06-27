@@ -12,11 +12,9 @@ This repository holds the PlayStation 3 version of Legacy of Solaris. For more r
 - [Miscellaneous](https://github.com/LostLegacyTeam/LoS-Miscellaneous)
 
 # Usage
-To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you must dump your copy of the game to your PlayStation's hard drive using multiMAN, then via FTP or any other storage media; simply just replace the files in the dumped copy with the ones you downloaded from here. However, for ``object.arc``, you will need to use [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit)'s ARC Studio. This is a temporary solution until we have a tool to automate this process.
+If you haven't already, extract your ISO for SONIC THE HEDGEHOG using [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit).
 
-In ARC Studio, set the Source archive to the retail (unmodified) `object.arc` and the Merge archive to the modified `object.arc` you downloaded from here. Then set the Output to a memorable location and click Merge.
-
-Your Output file will be the one used to play Legacy of Solaris. Create a backup of the archive you used as the Source file and replace it with the Output file.
+To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you will need [Sonic '06 Mod Manager](https://github.com/Knuxfan24/Sonic-06-Mod-Manager). Clone to repository to your drive (or just click Download ZIP) and put the Legacy of Solaris folder in your mods directory. Then tick the mod from Sonic '06 Mod Manager and tick the FTP Server option. Enter the location to `EBOOT.BIN` for SONIC THE HEDGEHOG (2006) on your PlayStation 3 and click Install Mods.
 
 # Contributors
 ### Main Developers
@@ -44,6 +42,7 @@ Your Output file will be the one used to play Legacy of Solaris. Create a backup
 
 ### Tool Developers
 - [HyperPolygon64](https://github.com/HyperPolygon64) - [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit)
+- [Knuxfan24](https://github.com/Knuxfan24) - [Sonic '06 Mod Manager](https://github.com/Knuxfan24/Sonic-06-Mod-Manager)
 - [Shadow LAG](https://github.com/lllsondowlll) - Sonic '06 SDK
 - g0ldenlink - ARC Unpacker
 - xose - ARC Repacker
