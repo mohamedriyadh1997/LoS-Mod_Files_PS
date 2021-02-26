@@ -1,3 +1,7 @@
+<b>This repository is DEPRECATED, the PlayStation 3 version of Legacy of Solaris is currently not supported, due to difficulties with development and testing mods on the PlayStation 3 version. While you are welcome to try and run this version, we do not support it and will not go out of our way to help get it up and running.</b>
+
+<hr>
+
 <p align="center">
     <a href="https://github.com/LostLegacyTeam/LoS-Mod_Files_PS/blob/master/">
         <img height="180px" src="https://github.com/LostLegacyTeam/LoS-Mod_Files_PS/blob/master/logo.png" />
@@ -12,9 +16,11 @@ This repository holds the PlayStation 3 version of Legacy of Solaris. For more r
 - [Miscellaneous](https://github.com/LostLegacyTeam/LoS-Miscellaneous)
 
 # Usage
-If you haven't already, extract your ISO for SONIC THE HEDGEHOG using [Sonic '06 Toolkit](https://github.com/HyperPolygon64/Sonic-06-Toolkit).
+If you haven't already, dump your copy of SONIC THE HEDGEHOG using a Backup Loader such as MultiMan.
 
-To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you will need [Sonic '06 Mod Manager](https://github.com/Knuxfan24/Sonic-06-Mod-Manager). Clone to repository to your drive (or just click Download ZIP) and put the Legacy of Solaris folder in your mods directory. Then tick the mod from Sonic '06 Mod Manager and tick the FTP Server option. Enter the location to `EBOOT.BIN` for SONIC THE HEDGEHOG (2006) on your PlayStation 3 and click Install Mods.
+To install Legacy of Solaris onto your copy of SONIC THE HEDGEHOG, you will need the [Sonic '06 Mod Manager](https://github.com/Knuxfan24/Sonic-06-Mod-Manager). Click `Code` and `Download ZIP` then put the Legacy of Solaris folder (**NOT** the `LoS-Mod_Files_PS-master` folder) from the downloaded archive into your mods directory. Then check the mod in the Sonic '06 Mod Manager's mod list and click `Save, install content and launch Sonic '06`.
+
+For general, extra information on setting up SONIC THE HEDGEHOG mods, check the [Mod Manager's wiki](https://github.com/Knuxfan24/Sonic-06-Mod-Manager/wiki).
 
 # Contributors
 ### Main Developers
